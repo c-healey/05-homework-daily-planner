@@ -7,19 +7,18 @@
 
 
 
-![](Homewowrk-05-daily-scheduler.png)
+![](Homework-05-daily-scheduler.png)
 
 ## Installation
 
 ```sh
-git clone 
+git clone https://github.com/c-healey/05-homework-daily-planner.git
 ```
 
 ## Usage example
 
 These pages can be used as an example of how to complete your homework assignment for Week 5. Refer to the Readme in the Develop folder for the assignment
 
-\_For more examples and usage, please refer to the the course files on gitlab
 
 ## Development setup
 
