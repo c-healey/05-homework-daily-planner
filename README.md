@@ -22,7 +22,7 @@ These pages can be used as an example of how to complete your homework assignmen
 
 ## Development setup
 
-This example is an aid and supplement to homework files to help you learn javascript.
+This example is an aid and supplement to homework files to help you learn bootstrap, jquery and moment 3rd party client side apis.
 
 - Homework assignment: refer to the Readme in the Devolop folder
 - [Bootstrap documentation:](https://getbootstrap.com)
@@ -30,6 +30,17 @@ This example is an aid and supplement to homework files to help you learn javasc
 - [MomentJS](https://momentjs.com/)
 - [Font Awesome](https://use.fontawesome.com/releases/v5.8.1/css/all.css)
 - [Google Fonts:](https://fonts.google.com)
+
+As a bonus challenge use Emmet to create the HTML hour rows. Some edits are required.
+
+Use the [Emmet cheatsheet](https://docs.emmet.io/cheat-sheet/) to decode these emmet commands.
+
+> (#hour-$@9.row.time-block>.col-md-1.hour{$@9AM}+textarea.col-md-10.description+button.btn.saveBtn.col-md-1>i.fas.fa-save)*9
+
+> remove this from your textarea fields   name="" id="" cols="30" rows="10"
+
+> Try highlighting one and using Ctrl D to highlight the next to edit all at once.
+
 
 ## Release History
 
