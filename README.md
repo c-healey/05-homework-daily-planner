@@ -29,11 +29,8 @@ This example is an aid and supplement to homework files to help you learn javasc
 - [Bootstrap documentation:](https://getbootstrap.com)
 - [JQuery:](https://jquery.com)
 - [MomentJS](https://momentjs.com/)
+- [Font Awesome](https://use.fontawesome.com/releases/v5.8.1/css/all.css)
 - [Google Fonts:](https://fonts.google.com)
-
-
-
-
 
 ## Release History
 
@@ -46,4 +43,4 @@ Catherine Healey – [@cfhealey](https://twitter.com/cfhealey) – cathy.healey@
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
-[Visit Javascript Password Generator](https://c-healey.github.io/03-homework-javascript-gen-pass/index.html)
+[Visit Daily Planner](https://c-healey.github.io/05-homework-daily-planner/index.html)
