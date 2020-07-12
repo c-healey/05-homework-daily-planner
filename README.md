@@ -7,7 +7,7 @@
 
 
 
-![](css-bootstrapHW.png)
+![](Homewowrk-05-daily-scheduler.png)
 
 ## Installation
 
@@ -43,4 +43,4 @@ Catherine Healey – [@cfhealey](https://twitter.com/cfhealey) – cathy.healey@
 
 Distributed under the MIT license. See `LICENSE` for more information.
 
-[Visit Daily Planner](https://c-healey.github.io/05-homework-daily-planner/index.html)
+[Visit Daily Planner](https://c-healey.github.io/05-homework-daily-planner/)
